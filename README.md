@@ -1,3 +1,2 @@
 # KniffelOneDesktopTwoPlayers.github.io
-Ein zwei Personen, ein PC Kniffel
-einfach, und cool
+two people, one pc, kniffel
